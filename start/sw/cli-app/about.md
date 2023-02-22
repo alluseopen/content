@@ -136,6 +136,6 @@ arch : x86_64
 
 Source code for this and more examples
 
-[https://github.com/xbcsmith/cli-app](https://github.com/xbcsmith/cli-app)
+[https://github.com/xbcsmith/cli-app](https://github.com/xbcsmith/cli-app).
 
 
